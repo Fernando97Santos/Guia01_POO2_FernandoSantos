@@ -13,4 +13,11 @@ public class Demo {
     public Demo(){
         System.err.println("Holi :D");
 }
+
+    @Override
+    public String toString() {
+        return "Demo{" + '}';
+    }
+    
+    
 }
