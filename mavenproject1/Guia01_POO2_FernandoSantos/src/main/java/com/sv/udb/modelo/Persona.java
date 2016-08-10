@@ -7,7 +7,7 @@ package com.sv.udb.modelo;
 
 /**
  *
- * @author aleso
+ * @author ferna
  */
 public class Persona {
     private int CodiPers;

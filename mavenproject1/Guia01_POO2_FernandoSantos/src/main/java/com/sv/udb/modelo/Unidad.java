@@ -7,7 +7,7 @@ package com.sv.udb.modelo;
 
 /**
  *
- * @author aleso
+ * @author ferna
  */
 public class Unidad {
     private int CodiUnid;
@@ -39,3 +39,4 @@ public class Unidad {
     }
     
 }
+

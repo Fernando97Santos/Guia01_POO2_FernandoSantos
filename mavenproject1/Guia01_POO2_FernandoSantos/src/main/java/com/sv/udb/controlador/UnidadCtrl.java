@@ -10,13 +10,12 @@ import com.sv.udb.recursos.Conexion;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  *
- * @author aleso
+ * @author ferna
  */
 public class UnidadCtrl {
     

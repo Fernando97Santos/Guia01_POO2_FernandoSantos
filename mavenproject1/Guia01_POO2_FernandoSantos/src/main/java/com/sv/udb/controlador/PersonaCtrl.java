@@ -15,8 +15,9 @@ import java.util.List;
 
 /**
  *
- * @author aleso
+ * @author ferna
  */
+
 public class PersonaCtrl {
     public List<Persona> consTodo(){
       List <Persona> resp = new ArrayList<>();
@@ -49,3 +50,4 @@ public class PersonaCtrl {
         return resp;  
     }
 }
+
