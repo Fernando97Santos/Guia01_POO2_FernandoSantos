@@ -63,7 +63,7 @@
                                         </div>
                                         </div>  
                                                     </form>
-                                            <form class="" method="post" action="Script_Reportes/report1.jsp"target="_blank">
+                                            <form class="" method="post" action="Script_Reportes/report2.jsp"target="_blank">
                                                 <div class="row half">
                                                     <div class="input-field col s12">
                                                         <center>Selecione la persona:</center>
@@ -84,7 +84,7 @@
                                                     </div>
                                                 </div>  
                                             </form>
-                                            <form class="" method="post" action="Script_Reportes/report1.jsp"target="_blank">
+                                            <form class="" method="post" action="Script_Reportes/report3.jsp"target="_blank">
                                                 <div class="row half">
                                                     <div class="input-field col s12">
                                                         <center>Selecione la persona:</center>
