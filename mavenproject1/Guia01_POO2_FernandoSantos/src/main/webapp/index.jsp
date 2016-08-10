@@ -42,7 +42,7 @@
                 </div>
                 <div class="content">
                     <h1>${mensAler}</h1>
-                    <form class="" method="post" action="Script_Reportes/report1.jsp"target="_blank">
+                    <form class="" method="post" action="Script_Reportes/report1.jsp" target="_blank">
                         <div class="row half">
                             <div class="input-field col s12">
                                 <center>Selecione la unidad organizativa :</center>

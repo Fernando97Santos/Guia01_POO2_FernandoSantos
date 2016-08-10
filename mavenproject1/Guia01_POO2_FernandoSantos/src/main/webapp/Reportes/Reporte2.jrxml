@@ -29,7 +29,7 @@ INNER JOIN pers p ON v.CODI_PERS = p.CODI_PERS  WHERE v.CODI_PERS =$P{CODIGO}]]>
 	<title>
 		<band height="72">
 			<frame>
-				<reportElement mode="Opaque" x="-20" y="-20" width="595" height="92" backcolor="#00CC66" uuid="c2301fb3-8222-4916-9456-c8fd9d1b1a1d"/>
+				<reportElement mode="Opaque" x="-20" y="-20" width="595" height="92" backcolor="#00CCFF" uuid="c2301fb3-8222-4916-9456-c8fd9d1b1a1d"/>
 				<staticText>
 					<reportElement x="20" y="20" width="334" height="43" forecolor="#FFFFFF" uuid="933a2365-6a44-4475-aa59-bdcfaf49eb09"/>
 					<textElement>
